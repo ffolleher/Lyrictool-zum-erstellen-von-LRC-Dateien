@@ -20,11 +20,11 @@ Der Federstahl LRC-Synchronisierer ist ein intuitives Tool zur Erstellung fehler
 * **Export:** Fertige `.lrc`-Datei herunterladen oder den Zwischenstand lokal im Browser speichern.
 
 ---
-![FEDERSTAHL LRC-Synchronisierer - Oberer Bereich mit Audio- und Texteingabe](Bildschirmfoto vom 2026-08-06 09-40-18.png)
+![FEDERSTAHL LRC-Synchronisierer - Oberer Bereich mit Audio- und Texteingabe](screenshot-1.png)
 
-![FEDERSTAHL LRC-Synchronisierer - Mittlerer Bereich mit Live-Sync und Steuerung](Bildschirmfoto vom 2026-08-06 09-40-31.png)
+![FEDERSTAHL LRC-Synchronisierer - Mittlerer Bereich mit Live-Sync und Steuerung](screenshot-2.png)
 
-![FEDERSTAHL LRC-Synchronisierer - Unterer Bereich mit Export und Korrektur-Optionen](Bildschirmfoto vom 2026-08-06 09-40-46.png)
+![FEDERSTAHL LRC-Synchronisierer - Unterer Bereich mit Export und Korrektur-Optionen](screenshot-3.png)
 
 ## 3. Kompatibilität & Haftungsausschluss
 * **Kompatibilität:** Voll kompatibel mit Firefox, Google Chrome und browsergleichen Engines. Bei anderen Browsern kann eine fehlerfreie Funktion nicht garantiert werden.
