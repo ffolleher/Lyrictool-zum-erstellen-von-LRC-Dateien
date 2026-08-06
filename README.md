@@ -19,9 +19,6 @@ Der Federstahl LRC-Synchronisierer ist ein intuitives Tool zur Erstellung fehler
 * **Korrektur:** Zu spät markiert? Nutzen Sie **„Letzte korrigieren“** (Taste `K`): Das Tool pausiert, löscht die Marke und springt exakt 3 Sekunden zurück zum Neusetzen. Mit `Backspace` löschen, mit den Pfeiltasten feintunen.
 * **Export:** Fertige `.lrc`-Datei herunterladen oder den Zwischenstand lokal im Browser speichern.
 
-![]Bildschirmfoto vom 2026-08-06 09-40-18.png 
-![]Bildschirmfoto vom 2026-08-06 09-40-31.png 
-![]Bildschirmfoto vom 2026-08-06 09-40-46.png 
 ---
 
 ## 3. Kompatibilität & Haftungsausschluss
