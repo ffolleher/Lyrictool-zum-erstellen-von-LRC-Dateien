@@ -6,7 +6,7 @@ Das kompromisslos datensichere Open-Source-Tool für exakte Songtext-Synchronisa
 ---
 
 ## 1. Wofür ist dieses Tool? & Datenschutz
-Der Federstahl LRC-Synchronisierer ist ein intuitives Tool zur Erstellung fehlerfreier LRC-Dateien mit exakten Zeitmarken (ideal für Lyrics-Videos als verlässliche Alternative zu fehlerhaften KI-Erkennungen). 
+Der Federstahl LRC-Synchronisierer ist ein intuitives und sehr einfach zu bedienendes Tool zur Erstellung fehlerfreier LRC-Dateien mit exakten Zeitmarken (ideal für Lyrics-Videos als verlässliche Alternative zu fehlerhaften KI-Erkennungen). 
 
 * **100% Datenschutz & Freiheit:** Das Tool ist absolut werbefrei, enthält keinerlei Tracking, keine Marketinganalyse und keine Fehleranalyse. 
 * **Volle Kontrolle:** Ihre Daten gehören zu 100 % Ihnen, verbleiben komplett lokal im Browser und werden zu keinem Zeitpunkt übertragen.
